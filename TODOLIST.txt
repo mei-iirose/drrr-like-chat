@@ -1,0 +1,7 @@
+better media functionality with parse urls from netease, youtube, soundcloud, and support online radios.
+
+user login with password and recovery option
+
+welcome bot
+
+aesthetic update
